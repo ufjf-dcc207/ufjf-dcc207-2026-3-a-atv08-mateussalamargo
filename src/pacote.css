@@ -3,7 +3,6 @@
     grid-template-columns: 2fr 1fr;
     gap: 2px;
     border: 1px solid black;
-    width: 350px;
     padding: 4px;
     dt{
         font-weight: bolder;
